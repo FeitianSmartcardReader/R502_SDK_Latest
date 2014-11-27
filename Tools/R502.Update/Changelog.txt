@@ -1,0 +1,1 @@
+Firmware 1.62 add Mifare 7bytes UID support, tested using Mifare S50 7Byte UID card

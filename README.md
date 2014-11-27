@@ -12,3 +12,7 @@ The reader will need to install driver on Linux and Mac OS X
 3. Accordance with ISO 14443 protocol to implement
 4. Support encrypted upgrade
 5. PC/SC reader, using CCID driver
+
+SDK Version
+============
+V1.1
