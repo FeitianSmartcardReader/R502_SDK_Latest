@@ -1,4 +1,4 @@
-R502_CL
+R502
 ======
 
 R502 have two model, one sigle contactless reader and another one is dual interface (contact + contactless), for more information, please check feitian website:
