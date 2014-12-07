@@ -3,3 +3,6 @@
 	2. UID tool support Windows 7/8/8.1
 
 Firmware 1.62 add Mifare 7bytes UID support, tested using Mifare S50 7Byte UID card
+
+The update tool will need .Net framework, please confirm you have installed .Net 3.5.
+http://download.ftsafe.com/files/reader/.Net_for_Win8_And_Win8.1_x86_x64.zip
