@@ -7,6 +7,9 @@ http://ftsafe.com/product/Smart_Reader/R502_CL
 
 The reader will need to install driver on Linux and Mac OS X
 
+The PCSC sample code also can found in below link:
+https://github.com/FeitianSmartcardReader/R301/tree/master/Sample%20Code
+
 [Functions]
 ==
 1. Support Type A and Type B card
