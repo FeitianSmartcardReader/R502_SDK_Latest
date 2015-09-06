@@ -1,3 +1,6 @@
+2015/9/6
+	Update tool support win10
+	Latest firmware is 1.64
 2014/12/04
 	1. Update tool support Windows 7/8/8.1
 	2. UID tool support Windows 7/8/8.1
@@ -10,8 +13,5 @@ http://download.ftsafe.com/files/reader/.Net_for_Win8_And_Win8.1_x86_x64.zip
 
 
 How to using Feitian_R502_Update to do upgrade fireware for R502:
-1. Open Feitian_R502_Update
-2. Choose config file:
-	R502 CL(contactless reader) please choose  R502_Contactless_Config.ini
-	R502 Dual interface, please choose R502_Dual_Interface_Config.ini
+1. Using administrator to run tool
 3. Click connect and select your BIN file, do update
