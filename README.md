@@ -5,7 +5,9 @@ R502 have two model, one sigle contactless reader and another one is dual interf
 
 http://ftsafe.com/product/Smart_Reader/R502_CL
 
-The reader will need to install driver on Linux and Mac OS X
+For Linux and Mac platform, you can using latest CCID directly, R502 CL and Dual already added into CCID support list.
+More information, please check log from below link:
+https://github.com/LudovicRousseau/CCID 
 
 The PCSC sample code also can found in below link:
 https://github.com/FeitianSmartcardReader/R301/tree/master/Sample%20Code
