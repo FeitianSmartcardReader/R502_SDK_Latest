@@ -75,6 +75,7 @@ Driver
 	http://download.ftsafe.com/files/iReader/WinXp_ccid_Driver.zip
 
 	For Linux and Mac platform, you can using latest CCID(1.4.21+) directly, R502 CL and Dual already added into CCID support list.
+	http://pcsclite.alioth.debian.org/ccid.html
 	
 Support
 ==
