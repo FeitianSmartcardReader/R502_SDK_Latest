@@ -71,7 +71,8 @@ Features
 Driver
 ==
 
-	For windows XP, driver is below:
+	For Windows 7/8/8.1/10, driver already integrated into Windows system, except for Windows XP
+	For Windows XP, driver is below:
 	http://download.ftsafe.com/files/iReader/WinXp_ccid_Driver.zip
 
 	For Linux and Mac platform:
