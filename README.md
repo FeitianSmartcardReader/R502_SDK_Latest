@@ -3,18 +3,19 @@ R502
 
 R502 have two model, one sigle contactless reader and another one is dual interface (contact + contactless), for more information, please check feitian website:
 
-http://ftsafe.com/product/Smart_Reader/R502_CL
+	http://ftsafe.com/product/Smart_Reader/R502_CL
+	http://ftsafe.com/product/Smart_Reader/Rockey_502
 
 The PCSC sample code also can found in below link:
-https://github.com/FeitianSmartcardReader/R301/tree/master/Sample%20Code
+	https://github.com/FeitianSmartcardReader/R301/tree/master/Sample%20Code
 
-[Product Overview]
+Product Overview
 ==
 R502 is a dual-interface smart card reader developed by Feitian Technologies. It is based on CCID driver. It supports not only contact cards compliant with ISO 7816 but also contactless cards compliant with ISO 14443 and contactless cards following Mifare standard. It also provides SIM card slots for many kinds of smart card applications. Moreover R502 comes with the SAM slot suitable for GSM 11.11 cards.
 
 R502 is a terminal interface device for smart card applications and system integrations. With support for smart cards using different interfaces, R502 can be widely used in industries or applications requiring electronic payment and authentication, especially suitable for the high security fields. It is an optimal solution for authentication, e-commerce, financial organizations, access control etc.
 
-[Hardware configuration]
+Hardware configuration
 ==
 To help users have better experience for using R502, we provided lights for R502 product. The light will help customer to understand the reader status and to save time to easy use.
 We provided three indicators (Red/Blue/Green) to inform the status of reader. It included below status of reader (USB data transfer/contact card/contactless card working status)
@@ -39,7 +40,7 @@ We provided three indicators (Red/Blue/Green) to inform the status of reader. It
 
 
 
-[Features]
+Features
 ==
 	Full speed USB 2.0 standard, also can do OEM RS 232 and DB-9 interface
 	Power supply by USB, the usb interface must be provided 120mA current when insert card
@@ -67,7 +68,7 @@ We provided three indicators (Red/Blue/Green) to inform the status of reader. It
 		Windows 2000/XP/2003/Vista/2008/7/8/10
 		Linux Kernel 2.6+ (FC14 X64，ubuntu9.10，ubuntu10.04，ubuntu11.10，openSUSE11.3 X64)
 		Mac OS X (10.6+)
-[Driver]
+Driver
 ==
 
 	For windows XP, driver is below:
@@ -75,9 +76,10 @@ We provided three indicators (Red/Blue/Green) to inform the status of reader. It
 
 	For Linux and Mac platform, you can using latest CCID(1.4.21+) directly, R502 CL and Dual already added into CCID support list.
 	
-[Support]
+Support
 ==
 	Any questions, please contact hongbin@ftsafe.com, thanks
+
 SDK Version
 ==
 V1.1
