@@ -3,8 +3,8 @@ R502
 
 R502 have two model, one sigle contactless reader and another one is dual interface (contact + contactless), for more information, please check feitian website:
 
-	http://ftsafe.com/product/Smart_Reader/R502_CL
-	http://ftsafe.com/product/Smart_Reader/Rockey_502
+	http://ftsafe.com/products/reader/Contactless
+	http://ftsafe.com/products/reader/Dual_Interface
 
 The PCSC sample code also can found in below link:
 	https://github.com/FeitianSmartcardReader/R301/tree/master/Sample%20Code

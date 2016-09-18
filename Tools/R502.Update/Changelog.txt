@@ -1,3 +1,6 @@
+2016/09/18
+	Upgrade R502 whole hardware design, the new R502 name is R502B, the firmware update to 3.47
+	Since the hardware changed, cannot update old hardware to latest firmware.
 2016/04/01
 	Solve bugs for Mifare card support
 	Add get CPU card UID function, which list in pcsc3_v2.01.09.pdf at section 3.2.2.1.3 
