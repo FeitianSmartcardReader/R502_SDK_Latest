@@ -1,3 +1,5 @@
+2017/05/12
+	Update R502 1.0.6 version, add OEM reader support for upgrading firmware
 2016/09/18
 	Upgrade R502 whole hardware design, the new R502 name is R502B, the firmware update to 3.47
 	Since the hardware changed, cannot update old hardware to latest firmware.
@@ -21,3 +23,5 @@ http://download.ftsafe.com/files/reader/.Net_for_Win8_And_Win8.1_x86_x64.zip
 How to using Feitian_R502_Update to do upgrade fireware for R502:
 1. Using administrator to run tool
 3. Click connect and select your BIN file, do update
+
+Notice: The new R502 call R502B which is different than R502
