@@ -82,7 +82,23 @@ Driver
 Support
 ==
 	Any questions, please contact hongbin@ftsafe.com, thanks
-
-SDK Version
+FAQ
 ==
-V1.1
+	Read UID through R502
+	Some customer wants read UID from CPU card, to support this, please follow below step:
+	
+	Please make sure your reader firmware, we had two R502 hardware, R502 and R502B, the R502B is new hardware 
+	which follow PCSC standard implement, it has best compitable with PCSC standard, and in future, we will only 
+	sale this mode. 
+	
+	The R502 latest firmware is 1.67, if you want reader support get UID, please update your firmware to 1.67, 
+	the update tool can find in Tool folder.
+	
+	To distinguish both of them, you can through check firmware version, the R502 version start from 1.xx, 
+	and R502B firmware version start from 3.xx, so if your reader is 3.47, we suggestion you can update to 3.50, 
+	then you can using get UID command
+	
+	Check firmware version through device manager, check below:
+	Insert reader and open "device manager", find "Smart card readers", choose
+	"Microsoft USBccid Smartcard Reader (WUDF)", right click, switch "Details" section, choose "Property", 
+	select "Hardware Ids", you will find the right version, which is REV_0347&M1 something.
