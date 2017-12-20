@@ -1,0 +1,3 @@
+R502.Demo 	Feitian developed application to show the functional of R502
+R502.UID 	UID application software is used to generate the ID of User (UID). Only the User holding the legal UID can update the smart card reader. The software includes the following items: Seed File, Generate UID, Read UID, Erase UID.
+R502.Update	Update application software is used to update old program through a new edition of program. The software includes the following items: Select Device, Update File, Update Firmware, OutPut Message.

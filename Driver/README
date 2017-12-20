@@ -1,0 +1,6 @@
+This folder include reader driver:
+WinXp ccid Driver:  For Windows XP and Windows 2000
+And for Windows Vista+, no need install driver.
+For Linux, macOS, please make sure you are using latest CCID driver, you can get resource from below:
+macOS: https://github.com/martinpaljak/osx-ccid-installer/releases
+Linux: https://github.com/LudovicRousseau/CCID/releases

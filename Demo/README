@@ -1,0 +1,36 @@
+The folder include demo application with different languages
+
+Feitian made:
+	Delphi
+	Java for Android
+	Java for PC
+	MS Visual C#
+	MS Visual VC++ 6.0
+Ludovic Rousseau made:
+	C
+	Perl
+	Python
+	scriptor
+	OCaml
+	Prolog
+	Ruby
+	Java
+	C#
+	Ada
+	PHP (dead upstream as 11 January 2015)
+	PHP5
+	lua
+	JavaScript (Node.js)
+	Python (using python-pcsclite)
+	Common Lisp
+	C for UEFI
+	Objective-C (using Crypto Token Kit)
+	Swift (using Crypto Token Kit)
+	go
+	Smart Card Connector on Chromebook
+	Rust
+	Objective-C (synchronous)
+	
+If you plan using our reader with chrome, IE, firefox, you can go with below resource:
+https://github.com/cardid/WebCard 
+https://github.com/ubinity/webpcsc-firebreath 

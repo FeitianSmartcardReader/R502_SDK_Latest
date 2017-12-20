@@ -1,0 +1,90 @@
+--------------------- R502-Dual and R502-CL Software Developer's Kit --------------------
+
+
+
+------------------- Folder Content List -------------------------------------
+
+Demo      Demo code with different Languages
+Docs      Include user manual, certificates, developer manual, datasheet
+Driver    Different platform driver or private driver for specific usage
+Tools	  Include related tools for R502, include UID Tool, Firmware upgrade tool and demo tool
+
+
+Using the reader, you can find user manual in Docs folder, user manual give you a view to understanding R502 card reader, if you want do develop, you can go with developer manual.
+
+If you had any questions, feel free contact world.support@ftsafe.com
+Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
+
+
+---------------- R502-Dual and R502-CL Software Developer's Kit --------------------
+
+[Version Information]
+    Model        : R502-Dual and R502-CL
+    Firmware     : 3.51
+    SDK          : V1.3
+    Release Date : 2017-12-13
+    Language     : English
+
+
+[Product Information]
+
+    1.  Product Model: 
+        R502-Dual - C9
+	R502-CL   - C10
+
+    2.  Default UID
+        UID    :  FFFFFFFFFFFFFFFF
+
+    3.  Quick Start Procedure
+	
+        a) Check user manual		   
+           \Docs\EN_R502_User_Manual_vx.x.pdf
+
+	b) Install Private driver
+           \Driver
+		
+        c) Choose the right platform build demo code to see how it works (Optional)
+           \Demo\Readme.txt
+ 
+        d) Learn how to using Tools for maintain
+           \Tools
+
+	   
+[General Introduction]
+    R502 is a dual-interface smart card reader developed by Feitian Technologies. It is based on CCID driver. It supports not only contact cards compliant with ISO 7816 but also contactless cards compliant with ISO 14443 and contactless cards following Mifare standard. It also provides SIM card slots for many kinds of smart card applications. Moreover R502 comes with the SAM slot suitable for GSM 11.11 cards. 
+
+    R502 is a terminal interface device for smart card applications and system integrations. With support for smart cards using different interfaces, R502 can be widely used in industries or applications requiring electronic payment and authentication, especially suitable for the high security fields. It is an optimal solution for authentication, e-commerce, financial organizations, access control etc. 
+
+	   	   
+[Product Features]
+    * Full speed USB 2.0 standard 
+    * Power supply by USB, the usb interface must be provided 120mA current when insert card 
+    * The maximum current less than 100mA (no smartcard insert) 
+    * Accordance with CCID standard to do develop 
+    * Contact card£º
+	- Support 1x full size card 
+	- Support T0 and T1, in accordance with ISO 7816 
+	- The card clock frequency 4MHz - 12MHz
+	- Support Class A, B, C, AB, BC, ABC
+	- Smart card communication speed: 10753bps ¨C 344086bps 
+	- Card slot: ISO/IEC standard using 8 contacts, 300,000 plug time 
+	- Support 2 x GSM11.11 standard SIM card 
+    * Contactless card: 
+	- Build-in antenna 
+	- Accordance with ISO/IEC 14443 (A and B) standard
+	- Support Mifare S50/S70/Ultralight C cards 
+	- Operating distance (0-30mm), Mifare card(0-45mm), it depends on cards 
+	- Card clock Frequency: 13.56MHz 
+	- Smart card communication speed: 106kbps
+    * Open UID(User ID) function 
+    * Support upgrade firmware (encrypted) 
+
+[Supported Platforms]
+
+	Windows 2000/XP/2003/Vista/2008/7/8/10
+	Linux Kernel 2.6+ (FC14 X64£¬ubuntu9.10£¬ubuntu10.04£¬ubuntu11.10£¬openSUSE11.3 X64) 
+	macOS
+
+
+ 
+
