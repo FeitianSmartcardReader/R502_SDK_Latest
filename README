@@ -61,12 +61,12 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
     * Power supply by USB, the usb interface must be provided 120mA current when insert card 
     * The maximum current less than 100mA (no smartcard insert) 
     * Accordance with CCID standard to do develop 
-    * Contact card£º
+    * Contact cardÂ£Âº
 	- Support 1x full size card 
 	- Support T0 and T1, in accordance with ISO 7816 
 	- The card clock frequency 4MHz - 12MHz
 	- Support Class A, B, C, AB, BC, ABC
-	- Smart card communication speed: 10753bps ¨C 344086bps 
+	- Smart card communication speed: 10753bps Â¨C 344086bps 
 	- Card slot: ISO/IEC standard using 8 contacts, 300,000 plug time 
 	- Support 2 x GSM11.11 standard SIM card 
     * Contactless card: 
@@ -82,7 +82,7 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
 [Supported Platforms]
 
 	Windows 2000/XP/2003/Vista/2008/7/8/10
-	Linux Kernel 2.6+ (FC14 X64£¬ubuntu9.10£¬ubuntu10.04£¬ubuntu11.10£¬openSUSE11.3 X64) 
+	Linux Kernel 2.6+ 
 	macOS
 
 
