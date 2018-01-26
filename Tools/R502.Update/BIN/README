@@ -7,6 +7,13 @@ Release Notes
 	Release Notes: 
 					* OEM version for specific customer who using dual interface contactless card(Contactless + Mifare)
 
+[FT_SCR502_Updata_20171117_V3.53.bin]
+	Model        : R502-Dual and R502-CL (R502B)
+	Firmware     : 3.53
+	Release Date : 2017-08-24
+	Release Notes: 
+					* Support get UID from all contactless smart card, for example, Type A and Type B card, the old version only support get UID from Mifare card.					
+					
 [FT_SCR502_Updata_20170824_V3.51.bin]
 	Model        : R502-Dual and R502-CL (R502B)
 	Firmware     : 3.51
