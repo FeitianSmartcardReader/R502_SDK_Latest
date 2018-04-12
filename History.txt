@@ -1,0 +1,2 @@
+2018/04/12
+	Upgrade Android SDK, new combo SDK can support all Feitian USB and Bluetooth readers.
