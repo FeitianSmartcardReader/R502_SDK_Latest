@@ -860,9 +860,9 @@ public class MainActivity extends Activity {
 			case DK.BT4_NEW:
 				BluetoothDevice mDevice = (BluetoothDevice) msg.obj;
 				textView.append("[BT4_NEW]:"+mDevice.getName()+"\n");
-				if(mDevice.getName()!=null && mDevice.getName().startsWith("FT_00A050031419")){
+				if(mDevice.getName()!=null && mDevice.getName().startsWith("FT_")){
 					arrayForBlueToothDevice.add(mDevice);					
-					addSpinnerD_14("¡¾"+mDevice.getName()+"¡¿"+mDevice.getAddress());
+					addSpinnerD_14("["+mDevice.getName()+"]"+mDevice.getAddress());
 				}
 				return;
 			default:
