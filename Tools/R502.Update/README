@@ -1,5 +1,10 @@
 R502 Update Tool
 
+V1.0.8 2018/05/04
+Release version 1.0.9
+Updates:
+    [1]: Fix a bug when using on Windows 7 French version got crash
+
 V1.0.8 2018/03/19
 Release version 1.0.8
 Updates:
