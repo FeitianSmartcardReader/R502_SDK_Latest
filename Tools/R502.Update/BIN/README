@@ -1,5 +1,12 @@
 Release Notes
 
+[FT_SCR502B_Update_20190929_V3.51.bin]
+	Model        : R502-Dual and R502-CL (R502B)
+	Firmware     : 3.51
+	Release Date : 2019-10-08
+	Release Notes: 
+					* Support Feitian OTP Display card and FIDO2 device, which has good compatible with these devices.
+
 [FT_SCR502_Updata_20170726_V3.57.bin]
 	Model        : R502-Dual and R502-CL (R502B)
 	Firmware     : 3.57
