@@ -1,0 +1,9 @@
+Before use this tool,make sure your reader name already fill in below:
+
+If you are using R502-CL, make sure the reader name is below:
+ReaderName="Feitian R502 0" 
+
+If you are using R502-Dual, make sure the reader name is below:
+ReaderName="Feitian R502 Contactless Reader 0" 
+
+If your reader is OEM, please contact ben@ftsafe.com to request the OEM tool, thanks
