@@ -1,21 +1,24 @@
 R502 Update Tool
 
-V1.0.8 2018/05/04
+V1.0.11 2021/03/01
+Release version 1.0.11
+Update:
+    [1]: Fix a bug when update reader firmware at 30% error
 Release version 1.0.9
-Updates:
+Update:
     [1]: Fix a bug when using on Windows 7 French version got crash
 
 V1.0.8 2018/03/19
 Release version 1.0.8
-Updates:
+Update:
     [1]: Add one more OEM reader support
 	
 V1.0.7 2017/12/21
 Release version 1.0.7
-Updates:
+Update:
     [1]: Fix a bug when using to update OEM reader
 	
 V1.0.6 2017/12/13
 Release version 1.0.6
-Updates:
+Update:
     [1]: Add support update OEM reader firmware
