@@ -1,0 +1,20 @@
+Release Notes
+
+[R502_20240816_7.02.meta]
+	Model        : R502-Dual and R502-CL (R502E7 hardware solution)
+	Firmware     : 7.02
+	Release Date : 2024-08-16
+	Release Notes: 
+					* Fix FIDO application issue by increasing the data process cache
+
+[R502_20230214_7.01_1.13.meta]
+	Model        : R502-Dual and R502-CL (R502E7 hardware solution)
+	Firmware     : 7.01
+	Release Date : 2023-02-14
+	Release Notes: 
+					* Initial release
+					* Hardware changes compare to the old product hardware solution
+					
+**Notices: 
+	- The meta files in this R502E7-FW folder, only for R502E7 solution R502 product.
+	- Only can use the Update.exe tool in this R502E7-FW folder to execute the updating process.
