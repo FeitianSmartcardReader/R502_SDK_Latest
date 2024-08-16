@@ -16,5 +16,6 @@ Release Notes
 					* Hardware changes compare to the old product hardware solution
 					
 **Notices: 
+	- Please use only one META file in the folder to update firmware.
 	- The meta files in this R502E7-FW folder, only for R502E7 solution R502 product.
 	- Only can use the Update.exe tool in this R502E7-FW folder to execute the updating process.

@@ -5,6 +5,7 @@ V1.0.11 2021/03/01
 Release version 1.0.11
 Update:
     [1]: Fix a bug when update reader firmware at 30% error
+
 Release version 1.0.9
 Update:
     [1]: Fix a bug when using on Windows 7 French version got crash
