@@ -1,4 +1,4 @@
---------------------- R502-Dual and R502-CL Software Developer's Kit --------------------
+--------------------- R502-Dual and R502-CL Reader SDK --------------------
 
 Android mobile SDK, please using latest version:
 https://github.com/FeitianSmartcardReader/FEITIAN_MOBILE_READERS
@@ -22,9 +22,9 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
 
 [Version Information]
     Model        : R502-Dual and R502-CL
-    Firmware     : 3.51
+    Firmware     : 7.02
     SDK          : V1.3
-    Release Date : 2017-12-13
+    Release Date : 2025-04-30
     Language     : English
 
 
@@ -32,7 +32,7 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
 
     1.  Product Model: 
         R502-Dual - C9
-	R502-CL   - C10
+        R502-CL   - C10
 
     2.  Default UID
         UID    :  FFFFFFFFFFFFFFFF
