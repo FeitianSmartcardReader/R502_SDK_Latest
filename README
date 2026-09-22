@@ -24,8 +24,7 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
     Model        : R502-Dual and R502-CL
     Firmware     : 7.02
     SDK          : V1.3
-    Release Date : 2025-04-30
-    Language     : English
+    Release Date : 2024-08-16
 
 
 [Product Information]
@@ -87,6 +86,9 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
 	Linux Kernel 2.6+ 
 	macOS
 
-
- 
-
+[Firmware Release logs]
+    v7.02 (Release Date: 2024-08-16)
+    v7.01 (Release Date: 2023-02-14)
+    v3.54 (Release Date: 2022-10-25)
+    v3.51 (Release Date: 2017-08-24)
+    v1.67 (Release Date: 2016-03-30)
